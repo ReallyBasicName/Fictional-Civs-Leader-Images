@@ -1,19 +1,466 @@
 
 game.png
-size: 1024, 512
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+LeaderIcons/Amy Rose
+  rotate: false
+  xy: 4, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Andrew Ryan
+  rotate: false
+  xy: 4, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Arthur Pendragon
+  rotate: false
+  xy: 262, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Barbie
+  rotate: false
+  xy: 4, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Batman
+  rotate: false
+  xy: 262, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Blaze
+  rotate: false
+  xy: 520, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Bowser
+  rotate: false
+  xy: 4, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Crazy Mita
+  rotate: false
+  xy: 262, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Cthulhu
+  rotate: false
+  xy: 520, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dedede
+  rotate: false
+  xy: 778, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Doctor Doom
+  rotate: false
+  xy: 4, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
 LeaderIcons/Doctor Eggman
+  rotate: false
+  xy: 262, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Doctor Starline
+  rotate: false
+  xy: 520, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dr. Robotnik
+  rotate: false
+  xy: 778, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dr. Wallace Breen
+  rotate: false
+  xy: 1036, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dutch van der Linde
+  rotate: false
+  xy: 4, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/El Presidente
+  rotate: false
+  xy: 262, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Fire Daimyō
+  rotate: false
+  xy: 520, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Freddy Fazbear
+  rotate: false
+  xy: 778, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gary Smith
+  rotate: false
+  xy: 1036, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Glamrock Freddy
+  rotate: false
+  xy: 1294, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Great Battle Kukku
   rotate: false
   xy: 4, 4
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
   index: -1
-LeaderIcons/Shrek
+LeaderIcons/Grug
+  rotate: false
+  xy: 262, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Homer Simpson
+  rotate: false
+  xy: 520, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Joker
+  rotate: false
+  xy: 778, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Lex Luthor
+  rotate: false
+  xy: 1036, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mayor McCheese
+  rotate: false
+  xy: 1294, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Mr. Krabs
+  rotate: false
+  xy: 1552, 1552
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Nassar Embry
   rotate: false
   xy: 262, 4
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Nephren-Ka
+  rotate: false
+  xy: 520, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ness
+  rotate: false
+  xy: 778, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Osmund Saddler
+  rotate: false
+  xy: 1036, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Oswell E. Spencer
+  rotate: false
+  xy: 1294, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Ozma
+  rotate: false
+  xy: 1552, 1294
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Penguin
+  rotate: false
+  xy: 520, 4
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Peter Griffin
+  rotate: false
+  xy: 778, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Playa
+  rotate: false
+  xy: 1036, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Princess Daisy
+  rotate: false
+  xy: 1294, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Princess Peach
+  rotate: false
+  xy: 1552, 1036
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Prophet of Truth
+  rotate: false
+  xy: 778, 4
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Riddler
+  rotate: false
+  xy: 1036, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Robbie Rotten
+  rotate: false
+  xy: 1294, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Roman Barkov
+  rotate: false
+  xy: 1552, 778
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Shrek
+  rotate: false
+  xy: 1036, 4
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Smooth Cheeks
+  rotate: false
+  xy: 1294, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Solomon Fleck
+  rotate: false
+  xy: 1552, 520
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sonic
+  rotate: false
+  xy: 1294, 4
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Springtrap
+  rotate: false
+  xy: 1552, 262
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Sweet Johnson
+  rotate: false
+  xy: 1552, 4
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Adam Susan
+  rotate: false
+  xy: 252, 40
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+LeaderIcons/Glorious Leader
+  rotate: false
+  xy: 1261, 843
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+LeaderIcons/Jor-El
+  rotate: false
+  xy: 1036, 801
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+LeaderIcons/Knuckles
+  rotate: false
+  xy: 4, 4
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+LeaderIcons/Plankton
+  rotate: false
+  xy: 520, 254
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+LeaderIcons/President
+  rotate: false
+  xy: 778, 524
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+LeaderIcons/Teresa Wisemail
+  rotate: false
+  xy: 4, 768
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Terrence Hood
+  rotate: false
+  xy: 4, 510
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/The Collector
+  rotate: false
+  xy: 262, 768
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/The Mouse
+  rotate: false
+  xy: 1444, 843
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+LeaderIcons/Tinky Winky
+  rotate: false
+  xy: 4, 252
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Two-Face
+  rotate: false
+  xy: 262, 510
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Vaas
+  rotate: false
+  xy: 520, 768
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Waluigi
+  rotate: false
+  xy: 262, 252
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Wario
+  rotate: false
+  xy: 520, 510
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+LeaderIcons/Zelda
+  rotate: false
+  xy: 778, 768
   size: 250, 250
   orig: 250, 250
   offset: 0, 0
